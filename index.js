@@ -25,7 +25,7 @@ async function getLive() {
         const OnlivesMusic = data.find(onlvs => onlvs.genre_id === 101);
         const livesOnlivesMusic = OnlivesMusic ? OnlivesMusic.lives : [];
         const allLives = livesOnlivesIdol.concat(livesOnlivesMusic);
-        const filterAll = allLives.filter(live => live.room_url_key.includes('JKT48'));
+        const filterAll = allLives.filter(live => live.room_url_key.includes('JKT48') && live.premium_room_type != 1);
 
         for (const data of filterAll) {
             const username = data.main_name || 'No Name';

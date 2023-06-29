@@ -1,5 +1,5 @@
 {
-    "name": "shopee-blacklist",
+    "name": "jkt48showroomm3u",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -13,14 +13,14 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/dandyraka/shopee-blacklist.git"
+      "url": "git+https://github.com/dandyraka/JKT48ShowroomM3U.git"
     },
-    "author": "soruly",
+    "author": "dandyraka",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/dandyraka/shopee-blacklist/issues"
+      "url": "https://github.com/dandyraka/JKT48ShowroomM3U/issues"
     },
-    "homepage": "https://github.com/dandyraka/shopee-blacklist#readme",
+    "homepage": "https://github.com/dandyraka/JKT48ShowroomM3U#readme",
     "dependencies": {
       "node-fetch": "^3.3.1"
     },

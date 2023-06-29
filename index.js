@@ -33,14 +33,11 @@ async function getLive() {
             const roomId = data.room_id;
             const streamUrl = await getStreamUrl(roomId);
             m3u_content += `#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom ${username}" tvg-logo="${image}" group-title="Showroom",Showroom ${username}\n${streamUrl}\n`;
-            //console.log(`#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom ${username}" tvg-logo="${image}" group-title="Showroom",Showroom ${username}`);
-            //console.log(streamUrl);
         }
     } catch (error) {
         console.log(`Fetch Error: ${error}`);
     }
 }
-
 
 await getLive();
 

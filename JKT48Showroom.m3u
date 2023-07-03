@@ -3,3 +3,5 @@
 https://hls-origin241.showroom-cdn.com/liveedge/ngrp:759f60322a2d5d2ba6030da66c8c115b650a399f1a6ad08fd7590887dbbcd8c7_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
 https://hls-origin244.showroom-cdn.com/liveedge/ngrp:dd75eaaec84c717723841700be3b457114d16113494bbd5051a452a1c5e24823_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
+https://hls-origin274.showroom-cdn.com/liveedge/ngrp:456aa25758d086aba0da94716e735df46c74377b04644ca2091e04680fd0003a_all/playlist.m3u8

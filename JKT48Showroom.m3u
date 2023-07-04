@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jeane /ジーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/cd068c05e4e342a9986c37a00f0342cfdfa346221a685af4e1f5fbe8a55ad58a_square_s.jpeg?v=1675342098" group-title="Showroom",Showroom Jeane /ジーン（JKT48）
+https://hls-origin215.showroom-cdn.com/liveedge/ngrp:fb078c4d37565ab9019080d81c13d801886a8f6a9a2468c930f240d8d8d3e5d9_all/playlist.m3u8

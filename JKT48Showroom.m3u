@@ -5,9 +5,5 @@ https://hls-origin280.showroom-cdn.com/liveedge/ngrp:65e08fd613e031f6c45fb71f98f
 https://hls-origin243.showroom-cdn.com/liveedge/ngrp:efdfe6d9f8e1310c09243ee877235b0edf2c3edbb35319e6f7ee22e66555041f_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
 https://hls-origin241.showroom-cdn.com/liveedge/ngrp:34a977b47221cf335e3c030a57ef3345d458b7905a494115af6c111ad2b0bc81_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1675091920" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
-https://hls-origin278.showroom-cdn.com/liveedge/ngrp:643dad32b5c50d01723dfea92e3ce7ef9f21e8f5c4e5d20c31b646e51b868f1d_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Ashel /アシェル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/1f4eca57063fe3f6be0bf5a66adefd5e3afa7395324c0a95e572a533c8c1f89a_square_s.jpeg?v=1675092239" group-title="Showroom",Showroom Ashel /アシェル（JKT48）
 https://hls-origin210.showroom-cdn.com/liveedge/ngrp:8b8d572fcee0782899641a8a675f8bf74e6461648e48d0ee53a990c7cb9d96f7_all/playlist.m3u8

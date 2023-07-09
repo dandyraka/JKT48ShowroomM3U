@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Sisca/シスカ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/495a0016a278e0830b9143a387a1908091c27b2415f561dfb9683aa062c7c87d_square_s.jpeg?v=1675092874" group-title="Showroom",Showroom Sisca/シスカ（JKT48）
+https://hls-origin272.showroom-cdn.com/liveedge/ngrp:e5e28066fbd0658868e522f29b947213ecc486d20b625fb88d21c2fc2971d4a1_all/playlist.m3u8

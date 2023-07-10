@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Amanda/アマンダ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2f2a93fe26c52af0bb33db6044b796b9590efd9ed198b852184820bd9845fef6_square_s.jpeg?v=1685542722" group-title="Showroom",Showroom Amanda/アマンダ（JKT48）
-https://hls-origin247.showroom-cdn.com/liveedge/ngrp:a2cf695464252d02688b82595a6be38bf67b0afa633bbd53d439259942eb06d3_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Ella /エラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/33b9a09551fb56e388c636720e88c310983d759c7be62230d59aa4a84303e1dc_square_s.jpeg?v=1685542674" group-title="Showroom",Showroom Ella /エラ（JKT48）
 https://hls-origin245.showroom-cdn.com/liveedge/ngrp:1b9799fce138d9e5b0d3906775cdb400c3227c5d8c50a6d65e0085afe5948f54_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Amanda/アマンダ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2f2a93fe26c52af0bb33db6044b796b9590efd9ed198b852184820bd9845fef6_square_s.jpeg?v=1685542722" group-title="Showroom",Showroom Amanda/アマンダ（JKT48）
+https://hls-origin247.showroom-cdn.com/liveedge/ngrp:a2cf695464252d02688b82595a6be38bf67b0afa633bbd53d439259942eb06d3_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）
 https://hls-origin279.showroom-cdn.com/liveedge/ngrp:7c3460fcf1da2a81f9726b2e0a4aeabb0ff1a2768765c1f1a6aa70ab920ac071_all/playlist.m3u8

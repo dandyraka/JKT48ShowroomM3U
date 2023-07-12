@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
 https://hls-origin243.showroom-cdn.com/liveedge/ngrp:f8b0440d5ef7c682f9e3566bd9a0a88a577e8b1d788098de26c6e444694a28d2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
+https://hls-origin273.showroom-cdn.com/liveedge/ngrp:0e65e71dd91abfa2cdaaeee0bd575f81a1a1b3764667d4b9ef09596b408e2ddc_all/playlist.m3u8

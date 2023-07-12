@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Marsha/マーシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/31c718d6829b5e484fac4f3284acc40a9788271be0066153cb2bb48880558507_square_s.jpeg?v=1675091709" group-title="Showroom",Showroom Marsha/マーシャ（JKT48）
-https://hls-origin204.showroom-cdn.com/liveedge/ngrp:7492cf163f30fb23bd67341ad79e91e3f94861a906574f5ca2070999b14c6b92_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
-https://hls-origin247.showroom-cdn.com/liveedge/ngrp:4d63f3e0328f3d43e549fdd8816941495bc03d46cc0c66ed4577a4f89054953c_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
+https://hls-origin243.showroom-cdn.com/liveedge/ngrp:f8b0440d5ef7c682f9e3566bd9a0a88a577e8b1d788098de26c6e444694a28d2_all/playlist.m3u8

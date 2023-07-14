@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lyn /リーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/261d835846ccd54052d7bede79f89171d1f79af054ada2fecf81086644ff6ea4_square_s.jpeg?v=1685542810" group-title="Showroom",Showroom Lyn /リーン（JKT48）
-https://hls-origin278.showroom-cdn.com/liveedge/d1925cab6644fd829706a9c378cebf785a2a0b56c9873ecd46db00a042291d23/chunklist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1685542598" group-title="Showroom",Showroom Lia /リア（JKT48）
-https://hls-origin242.showroom-cdn.com/liveedge/ngrp:0afe599e0f9d6af312959b8f44bbac7f734ded0932f19eb6493d3820300977c6_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Raisha /ライシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b5e493484b3fdd07ebadfd478837295c9968208cf3721934b46611eca5cb92b8_square_s.jpeg?v=1685542844" group-title="Showroom",Showroom Raisha /ライシャ（JKT48）
 https://hls-origin277.showroom-cdn.com/liveedge/ngrp:32468f0f1b938834e83a62b4372c50d42407b6e3928f8ff937a6bee40f98674f_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1685542598" group-title="Showroom",Showroom Lia /リア（JKT48）
+https://hls-origin242.showroom-cdn.com/liveedge/ngrp:0afe599e0f9d6af312959b8f44bbac7f734ded0932f19eb6493d3820300977c6_all/playlist.m3u8

@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Feni/フェニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bc8b10acffc5adee44b5d8b7dade3bc9435607fe3a766ae772ec633ac08b649b_square_s.jpeg?v=1675092939" group-title="Showroom",Showroom Feni/フェニ（JKT48）
+https://hls-origin276.showroom-cdn.com/liveedge/ngrp:9a79ab4f818b043918978005de676e3fec6d068cf13d37983c774fe3d627ee70_all/playlist.m3u8

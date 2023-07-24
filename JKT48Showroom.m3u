@@ -1,15 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Muthe/ムテ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d6cd1a52b06d7bed1bd0bda75b917eb18667e060c175952babc50733bf3a7e40_square_s.jpeg?v=1675092551" group-title="Showroom",Showroom Muthe/ムテ（JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Ella /エラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/33b9a09551fb56e388c636720e88c310983d759c7be62230d59aa4a84303e1dc_square_s.jpeg?v=1685542674" group-title="Showroom",Showroom Ella /エラ（JKT48）
 https://hls-origin278.showroom-cdn.com/liveedge/ngrp:63075e5dd498066c44a326df89b8027ab01789baa94224006a0f218ac62e5de8_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
-https://hls-origin273.showroom-cdn.com/liveedge/ngrp:df9e59094ee56818a9aa193ab207115b4cfcfa1828f5e3b35ac6b1543a36562e_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
-https://hls-origin245.showroom-cdn.com/liveedge/ngrp:6682b4d9c7e6ebc5e601a52fdbe86b7f5692c93d0b97cf74b620a164f6cbecef_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
 https://hls-origin247.showroom-cdn.com/liveedge/ngrp:fcdec1db5371e5c4dcd531da6410c245f9668c1bec8fb7b2d44efa417f850648_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1675091920" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
-https://hls-origin203.showroom-cdn.com/liveedge/ngrp:ef76b7ea49df6cc340262c8dbb4a9173beb5efd1d6447e06d0302d597e49b6d2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Raisha /ライシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b5e493484b3fdd07ebadfd478837295c9968208cf3721934b46611eca5cb92b8_square_s.jpeg?v=1685542844" group-title="Showroom",Showroom Raisha /ライシャ（JKT48）
 https://hls-origin204.showroom-cdn.com/liveedge/ngrp:505ff4e43cd6b0931efa2757ead732172e3a39764527ec805fa98886e5d75388_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Amanda/アマンダ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2f2a93fe26c52af0bb33db6044b796b9590efd9ed198b852184820bd9845fef6_square_s.jpeg?v=1685542722" group-title="Showroom",Showroom Amanda/アマンダ（JKT48）
+https://hls-origin248.showroom-cdn.com/liveedge/ngrp:80acd4f67174139b84c97317c921968635f7a2f34480a73cc2b153029b1c73c7_all/playlist.m3u8

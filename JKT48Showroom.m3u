@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Michie /ミチー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/fc878be06fb484b4edcb8051e8456a93279b2395e711aada3d7547b1b78e3720_square_s.jpeg?v=1675342385" group-title="Showroom",Showroom Michie /ミチー（JKT48）
-https://hls-origin278.showroom-cdn.com/liveedge/ngrp:9072372e7022e9f245805409cc50d8072fa6a3fac58bf47098df0a2f940accca_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shani/シャニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/15391680ed61e9c6c53454d5f56f63236e29a261ee5054e42daee3f04b630567_square_s.jpeg?v=1675092515" group-title="Showroom",Showroom Shani/シャニ（JKT48）
 https://hls-origin204.showroom-cdn.com/liveedge/ngrp:dd92ec470d0037d08a2a39bd75e646f2f9f62b86a95a9e4cd0fee6c903bf690f_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracia/グラシア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/3026b77b664e3f6acc416ed606d20c23356fe91d18cb4345d53715ac50541912_square_s.jpeg?v=1675092465" group-title="Showroom",Showroom Gracia/グラシア（JKT48）

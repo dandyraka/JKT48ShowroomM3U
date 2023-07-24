@@ -3,8 +3,6 @@
 https://hls-origin275.showroom-cdn.com/liveedge/ngrp:88ed18af228b2b1bd55d10d891f3deaee5b6bc875f297828f8e87fec58c49c66_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
 https://hls-origin280.showroom-cdn.com/liveedge/ngrp:1c6443b9ea10e9e4d5dd50b71cd6d7b653d760633adf0ab37c64a0ea733d4556_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Alya /アリア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0a1644ab1bc0333a175bbd13744995241b42a796d81fb939b5def608942a8e96_square_s.jpeg?v=1675335926" group-title="Showroom",Showroom Alya /アリア（JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jeane /ジーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/cd068c05e4e342a9986c37a00f0342cfdfa346221a685af4e1f5fbe8a55ad58a_square_s.jpeg?v=1675342098" group-title="Showroom",Showroom Jeane /ジーン（JKT48）
 https://hls-origin272.showroom-cdn.com/liveedge/ngrp:db919b7180e4c0b6a0ec782fffaede356b6b263b61c9e17cd57b083660ef5a81_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）

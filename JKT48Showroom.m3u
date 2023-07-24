@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
 https://hls-origin273.showroom-cdn.com/liveedge/ngrp:b9491c1ba3dcada063c67d18322c0fdb111febe776a9775572664bed8138cf7a_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
-https://hls-origin280.showroom-cdn.com/liveedge/ngrp:1c6443b9ea10e9e4d5dd50b71cd6d7b653d760633adf0ab37c64a0ea733d4556_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）
 https://hls-origin247.showroom-cdn.com/liveedge/ngrp:cb106529cee40c18cc73b9adac55168e94753f35c6236dc7ffbefd7a4576a3f8_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
+https://hls-origin280.showroom-cdn.com/liveedge/ngrp:1c6443b9ea10e9e4d5dd50b71cd6d7b653d760633adf0ab37c64a0ea733d4556_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cynthia /シンティア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e3e88b5c96d4af6c2bd0e951809d808214a6bb8837903c1d8a83fa87ad1ea080_square_s.jpeg?v=1675338496" group-title="Showroom",Showroom Cynthia /シンティア（JKT48）
 https://hls-origin209.showroom-cdn.com/liveedge/ngrp:87811ca12e522c59f09d799cdbc7a08d2c088307dc7452ff29462e34fdd4c7ae_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）

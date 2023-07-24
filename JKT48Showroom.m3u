@@ -5,3 +5,5 @@ https://hls-origin204.showroom-cdn.com/liveedge/ngrp:dd92ec470d0037d08a2a39bd75e
 https://hls-origin280.showroom-cdn.com/liveedge/ngrp:f4fabc751e6cc8f1073325314b36c7d1288ad00fc42fda91fdc5ccd18c52234f_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
 https://hls-origin273.showroom-cdn.com/liveedge/ngrp:b9491c1ba3dcada063c67d18322c0fdb111febe776a9775572664bed8138cf7a_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
+https://hls-origin280.showroom-cdn.com/liveedge/1c6443b9ea10e9e4d5dd50b71cd6d7b653d760633adf0ab37c64a0ea733d4556/chunklist.m3u8

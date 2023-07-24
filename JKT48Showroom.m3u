@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Zee/ジー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a9aa6279cf53c4b3f2d79e35a098e94934506edc56b60896dcc44a45f940611e_square_s.jpeg?v=1675092985" group-title="Showroom",Showroom Zee/ジー（JKT48）
-https://hls-origin215.showroom-cdn.com/liveedge/ngrp:3ca9d99280f50950ab70d59fe7b2fd6435211cf18b3b2873717474462635a490_all/playlist.m3u8
+https://hls-origin275.showroom-cdn.com/liveedge/ngrp:3c2590c1b7ec17bf54b94bab3d80afc14230ed50236c96c19160e3baa9311a89_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Christy/クリスティー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b704fbdc371c9dd64fa6b2a15839ae3e912e9a5f76173d40502969a31a936f4_square_s.jpeg?v=1675092800" group-title="Showroom",Showroom Christy/クリスティー（JKT48）
-https://hls-origin215.showroom-cdn.com/liveedge/ngrp:3ca9d99280f50950ab70d59fe7b2fd6435211cf18b3b2873717474462635a490_all/playlist.m3u8
+https://hls-origin215.showroom-cdn.com/liveedge/3ca9d99280f50950ab70d59fe7b2fd6435211cf18b3b2873717474462635a490/chunklist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Michie /ミチー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/fc878be06fb484b4edcb8051e8456a93279b2395e711aada3d7547b1b78e3720_square_s.jpeg?v=1675342385" group-title="Showroom",Showroom Michie /ミチー（JKT48）
 https://hls-origin278.showroom-cdn.com/liveedge/ngrp:9072372e7022e9f245805409cc50d8072fa6a3fac58bf47098df0a2f940accca_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
 https://hls-origin273.showroom-cdn.com/liveedge/ngrp:b9491c1ba3dcada063c67d18322c0fdb111febe776a9775572664bed8138cf7a_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shani/シャニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/15391680ed61e9c6c53454d5f56f63236e29a261ee5054e42daee3f04b630567_square_s.jpeg?v=1675092515" group-title="Showroom",Showroom Shani/シャニ（JKT48）
+https://hls-origin204.showroom-cdn.com/liveedge/ngrp:dd92ec470d0037d08a2a39bd75e646f2f9f62b86a95a9e4cd0fee6c903bf690f_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracia/グラシア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/3026b77b664e3f6acc416ed606d20c23356fe91d18cb4345d53715ac50541912_square_s.jpeg?v=1675092465" group-title="Showroom",Showroom Gracia/グラシア（JKT48）
+https://hls-origin280.showroom-cdn.com/liveedge/ngrp:f4fabc751e6cc8f1073325314b36c7d1288ad00fc42fda91fdc5ccd18c52234f_all/playlist.m3u8

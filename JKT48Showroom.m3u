@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
+https://hls-origin274.showroom-cdn.com/liveedge/ngrp:21ae1436d6c763bfdde45d0e8a2777f34d1b74c1860be5ad585034b3bf841c17_all/playlist.m3u8

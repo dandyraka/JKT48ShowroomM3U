@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Muthe/ムテ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d6cd1a52b06d7bed1bd0bda75b917eb18667e060c175952babc50733bf3a7e40_square_s.jpeg?v=1675092551" group-title="Showroom",Showroom Muthe/ムテ（JKT48）
-https://hls-origin271.showroom-cdn.com/liveedge/ngrp:9070c79bf9f927f9192710f9be34020b0b99ee471afbb95f132bce6165305334_all/playlist.m3u8
+https://hls-origin271.showroom-cdn.com/liveedge/9070c79bf9f927f9192710f9be34020b0b99ee471afbb95f132bce6165305334/chunklist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1685542598" group-title="Showroom",Showroom Lia /リア（JKT48）
-https://hls-origin274.showroom-cdn.com/liveedge/ngrp:46ee480771470077439f100c722c8e4eddf3853791f1a544c7834db85a70640a_all/playlist.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

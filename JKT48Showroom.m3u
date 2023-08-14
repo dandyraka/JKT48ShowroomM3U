@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
+https://hls-origin250.showroom-cdn.com/liveedge/ngrp:91b36e6c101715006dd8e16d19696bd49e8d6701749256d43a75549f61a74b97_all/playlist.m3u8

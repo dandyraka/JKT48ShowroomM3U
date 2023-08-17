@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
+https://hls-origin220.showroom-cdn.com/liveedge/ngrp:c994579fb2aef50287c3a73634b5e5ebc55ede82ae108f8e7e23235200f5476c_all/playlist.m3u8

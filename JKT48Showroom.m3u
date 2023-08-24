@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gita/ギタ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/388fa55ee4ee2a438a34d1b0a71de03f472b76b5560203930f103850edb577c8_square_s.jpeg?v=1675092700" group-title="Showroom",Showroom Gita/ギタ（JKT48）
+https://hls-origin275.showroom-cdn.com/liveedge/ngrp:822f4a9d1ac80a59041027949fd9b9550a4769760276adce23786e63ac84c7ab_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）
+https://hls-origin207.showroom-cdn.com/liveedge/ngrp:6d28533849bdfb3bda1df56e80db661a61ed471ab7cc77089767fed19ba85664_all/playlist.m3u8

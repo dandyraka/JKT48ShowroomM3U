@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jeane /ジーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/cd068c05e4e342a9986c37a00f0342cfdfa346221a685af4e1f5fbe8a55ad58a_square_s.jpeg?v=1675342098" group-title="Showroom",Showroom Jeane /ジーン（JKT48）
-https://hls-origin209.showroom-cdn.com/liveedge/ngrp:c80d254314890b70f511dd956125db8c6f587b482789b213c4351d81c5081928_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
-https://hls-origin247.showroom-cdn.com/liveedge/ngrp:669859583e4d5ccf414ba1cb77f382781eadb08bbaea09586c9afb065da1ee39_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Feni/フェニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bc8b10acffc5adee44b5d8b7dade3bc9435607fe3a766ae772ec633ac08b649b_square_s.jpeg?v=1675092939" group-title="Showroom",Showroom Feni/フェニ（JKT48）
+https://hls-origin247.showroom-cdn.com/liveedge/ngrp:b56a2e2a75078e9cee7a9268d650cc065ae6f5527238755c4e0166deff4fda30_all/playlist.m3u8

@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gita/ギタ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/388fa55ee4ee2a438a34d1b0a71de03f472b76b5560203930f103850edb577c8_square_s.jpeg?v=1675092700" group-title="Showroom",Showroom Gita/ギタ（JKT48）
+https://hls-origin243.showroom-cdn.com/liveedge/ngrp:56c4a39b8161aaa0b9242a74ece62b2fea003d75ee079a7d6e28b3e7dd7c9d47_all/playlist.m3u8

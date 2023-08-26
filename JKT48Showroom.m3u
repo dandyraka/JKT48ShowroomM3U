@@ -1,11 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Michie /ミチー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/fc878be06fb484b4edcb8051e8456a93279b2395e711aada3d7547b1b78e3720_square_s.jpeg?v=1675342385" group-title="Showroom",Showroom Michie /ミチー（JKT48）
 https://hls-origin249.showroom-cdn.com/liveedge/ngrp:3304f26f266c42e5d91602cd5bd24c102fd68628e0ae01f723235777d5ce83be_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
-https://hls-origin245.showroom-cdn.com/liveedge/ngrp:05b6dc4f98d3a37cff479965aa6ee10ad49b17e827c857f07cd18b9d661d7e63_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jeane /ジーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/cd068c05e4e342a9986c37a00f0342cfdfa346221a685af4e1f5fbe8a55ad58a_square_s.jpeg?v=1675342098" group-title="Showroom",Showroom Jeane /ジーン（JKT48）
 https://hls-origin209.showroom-cdn.com/liveedge/ngrp:c80d254314890b70f511dd956125db8c6f587b482789b213c4351d81c5081928_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
-https://hls-origin201.showroom-cdn.com/liveedge/ngrp:eb65e66db5f0f295175803ca7f7ada68114de73c0b9218eca5804de0715390e2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
 https://hls-origin247.showroom-cdn.com/liveedge/ngrp:669859583e4d5ccf414ba1cb77f382781eadb08bbaea09586c9afb065da1ee39_all/playlist.m3u8

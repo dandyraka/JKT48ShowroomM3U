@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracia/グラシア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/3026b77b664e3f6acc416ed606d20c23356fe91d18cb4345d53715ac50541912_square_s.jpeg?v=1675092465" group-title="Showroom",Showroom Gracia/グラシア（JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Eli/エリ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6ac7ec5ce772cca881de55354f99c07c0987240e057c4f2fecb11024eeaae6a6_square_s.jpeg?v=1675092663" group-title="Showroom",Showroom Eli/エリ（JKT48）
 https://hls-origin202.showroom-cdn.com/liveedge/ngrp:7315be042fe299b27545aa3f333ea14bf2c0f14c56562ddd6832347ebaacdab8_all/playlist.m3u8

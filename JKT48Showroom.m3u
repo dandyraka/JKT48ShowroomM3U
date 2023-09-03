@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1675341391" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
-https://hls-origin271.showroom-cdn.com/liveedge/1bbe2c8a5df0c62035d0bbcb13c89260c047e788e16cdb9290f346ff79957b24/chunklist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shani/シャニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/15391680ed61e9c6c53454d5f56f63236e29a261ee5054e42daee3f04b630567_square_s.jpeg?v=1675092515" group-title="Showroom",Showroom Shani/シャニ（JKT48）
+https://hls-origin247.showroom-cdn.com/liveedge/ngrp:a55385e1c14e48f1b8806413f77ca188a7fdb13fa3361ee30c5df7f58c503e34_all/playlist.m3u8

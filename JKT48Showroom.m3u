@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）
+https://hls-origin220.showroom-cdn.com/liveedge/ngrp:7835201d69d19efc2c5418f6458fe5327d416fcf26a8aa3010051b059161507f_all/playlist.m3u8

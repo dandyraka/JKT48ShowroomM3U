@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
-https://hls-origin276.showroom-cdn.com/liveedge/ngrp:e08e9944dc2e3c4046013d913840964e83ed4cca0672ce31b922c1dc152d724b_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
 https://hls-origin243.showroom-cdn.com/liveedge/ngrp:0a6907f646083054f62913cf4036ef5dd2caa706e66e959b82ca42797a03cbe1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
+https://hls-origin213.showroom-cdn.com/liveedge/ngrp:6e6a3b61e8a6a60eb9e36eef80c4a9577bce6547ab92129d1a0713a79fb508d2_all/playlist.m3u8

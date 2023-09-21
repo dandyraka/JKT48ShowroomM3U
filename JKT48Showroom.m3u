@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）
 https://hls-origin244.showroom-cdn.com/liveedge/ngrp:621f340e69d4dca7409cb5cc5d9c9fd2ad237bec4d3c1457966f237083be85d6_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
-https://hls-origin246.showroom-cdn.com/liveedge/ngrp:46b19bc76e5c477011f8095f9125d494d24490866f4ac6a947f6a1cbbb71955b_all/playlist.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

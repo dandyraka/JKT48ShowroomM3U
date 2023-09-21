@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）
 https://hls-origin244.showroom-cdn.com/liveedge/ngrp:621f340e69d4dca7409cb5cc5d9c9fd2ad237bec4d3c1457966f237083be85d6_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
-https://hls-origin272.showroom-cdn.com/liveedge/ngrp:6137f1a57cdfa6dff9cde317cf2852036af2500124969bc393a2c97b62a953a6_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Amanda/アマンダ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2f2a93fe26c52af0bb33db6044b796b9590efd9ed198b852184820bd9845fef6_square_s.jpeg?v=1685542722" group-title="Showroom",Showroom Amanda/アマンダ（JKT48）
 https://hls-origin246.showroom-cdn.com/liveedge/ngrp:9f75104e50d2573dc1244cafd155f34f0ea11d6aa146a8aea20e588e4c9b2671_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
+https://hls-origin272.showroom-cdn.com/liveedge/ngrp:6137f1a57cdfa6dff9cde317cf2852036af2500124969bc393a2c97b62a953a6_all/playlist.m3u8

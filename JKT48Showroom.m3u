@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gita/ギタ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/388fa55ee4ee2a438a34d1b0a71de03f472b76b5560203930f103850edb577c8_square_s.jpeg?v=1675092700" group-title="Showroom",Showroom Gita/ギタ（JKT48）
 https://hls-origin242.showroom-cdn.com/liveedge/ngrp:21c34b80be6aefe18c38a4c2eb6f134fa7ba2d05ffde329fb2757ca8f2bc92fd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom JKT48 Official SHOWROOM" tvg-logo="undefined" group-title="Showroom",Showroom JKT48 Official SHOWROOM
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

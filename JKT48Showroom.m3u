@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
+https://hls-origin278.showroom-cdn.com/liveedge/ngrp:efc4fe5efcb96d3fa87fc07b5c80310231e0d39448b5fc4af45b4b7cd1b89d53_all/playlist.m3u8

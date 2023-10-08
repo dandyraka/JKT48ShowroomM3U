@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Danella /ダネラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/002771d7d8969132b8749564920a354426fad0c56857e3818de960035c560ed7_square_s.jpeg?v=1675339003" group-title="Showroom",Showroom Danella /ダネラ（JKT48）
+https://hls-origin216.showroom-cdn.com/liveedge/ngrp:512d6128caa194d87b5355be571174c7f58b7bd40e6a3269a6af2bf8d764f226_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Daisy /デイシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a5054230e2eeeae789ccdf134345e4f3cf05801d689d9ec57397d34eae090343_square_s.jpeg?v=1675338832" group-title="Showroom",Showroom Daisy /デイシー（JKT48）
+https://hls-origin209.showroom-cdn.com/liveedge/ngrp:20edd0e455e8cbb200c721fe9b37ebc6eb7342c591f3d1e40fa2756cfbb85ca2_all/playlist.m3u8

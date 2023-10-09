@@ -5,3 +5,5 @@ https://hls-origin212.showroom-cdn.com/liveedge/ngrp:51161424c5de664ce00e056cfc2
 https://hls-origin243.showroom-cdn.com/liveedge/ngrp:8f8d0df8f61b866fd47ce89d1907aa4d42aa2649fdde73eac0fd6866e181e2f0_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Daisy /デイシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a5054230e2eeeae789ccdf134345e4f3cf05801d689d9ec57397d34eae090343_square_s.jpeg?v=1675338832" group-title="Showroom",Showroom Daisy /デイシー（JKT48）
 https://hls-origin220.showroom-cdn.com/liveedge/ngrp:ba470f0605d48c10e2adb51641994cea3d2a593a99aa7116d1821ac84394ec7b_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Elin /エリン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d0ab8b151a1a0f7c2a69ea29624ef4ae7800ef1bee00df7f8c0c1f103331079d_square_s.jpeg?v=1675340527" group-title="Showroom",Showroom Elin /エリン（JKT48）
+https://hls-origin246.showroom-cdn.com/liveedge/ngrp:50ea874da5ef9b76e0c1cb44477ce55c05b514d3194d7f919d124433e9d07e6e_all/playlist.m3u8

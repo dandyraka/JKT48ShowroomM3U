@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1675341391" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
-https://hls-origin215.showroom-cdn.com/liveedge/ngrp:4a657dd51aac81676e3668b045cd71f1d8eb0aee065ab0381644efcc4fa7e80b_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Marsha/マーシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/31c718d6829b5e484fac4f3284acc40a9788271be0066153cb2bb48880558507_square_s.jpeg?v=1675091709" group-title="Showroom",Showroom Marsha/マーシャ（JKT48）
 https://hls-origin273.showroom-cdn.com/liveedge/ngrp:b5645058d896c97f643ada449832614cc42681fba02d9502113021ab9e297aca_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Daisy /デイシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a5054230e2eeeae789ccdf134345e4f3cf05801d689d9ec57397d34eae090343_square_s.jpeg?v=1675338832" group-title="Showroom",Showroom Daisy /デイシー（JKT48）
-https://hls-origin276.showroom-cdn.com/liveedge/ngrp:e8ec3b69f2ca9ad7a1e1c1eef721aeef077aabf0156c2a1c08314d6cfe032602_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1675341391" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
+https://hls-origin215.showroom-cdn.com/liveedge/ngrp:4a657dd51aac81676e3668b045cd71f1d8eb0aee065ab0381644efcc4fa7e80b_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
 https://hls-origin249.showroom-cdn.com/liveedge/ngrp:446e387b0a4ab2fc6f048b10df40d9be40db77fa91aaaa2fb6301d7982011d3d_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Daisy /デイシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a5054230e2eeeae789ccdf134345e4f3cf05801d689d9ec57397d34eae090343_square_s.jpeg?v=1675338832" group-title="Showroom",Showroom Daisy /デイシー（JKT48）
+https://hls-origin276.showroom-cdn.com/liveedge/ngrp:e8ec3b69f2ca9ad7a1e1c1eef721aeef077aabf0156c2a1c08314d6cfe032602_all/playlist.m3u8

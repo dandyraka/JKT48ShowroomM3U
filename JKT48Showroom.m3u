@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indira /インディラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/80e7ab4bb7445c959ca2bff7c44dac4cc7353bddc0d3c70b6928c00f67ccfc53_square_s.jpeg?v=1685542774" group-title="Showroom",Showroom Indira /インディラ（JKT48）
 https://hls-origin274.showroom-cdn.com/liveedge/ngrp:3eeec966957b4be4f084053553888e2bd6a176f3de137aab37ed89d7e30f76ff_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）
+https://hls-origin201.showroom-cdn.com/liveedge/ngrp:1df43e8fa806f38130ff221d19f1f72fa9baed32a548c4260b62261f75d5ede7_all/playlist.m3u8

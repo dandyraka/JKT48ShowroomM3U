@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
-https://hls-origin204.showroom-cdn.com/liveedge/ngrp:c759ac1402fdf238b4c241341936d1ceddbab6aed3f41c087c491cee429d70f4_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
 https://hls-origin250.showroom-cdn.com/liveedge/ngrp:d216c4c10a1f4df0b0af0dd201cad40bc2966f7aab64b670506329bc32d36d74_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
+https://hls-origin204.showroom-cdn.com/liveedge/ngrp:c759ac1402fdf238b4c241341936d1ceddbab6aed3f41c087c491cee429d70f4_all/playlist.m3u8

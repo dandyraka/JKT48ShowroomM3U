@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Muthe/ムテ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d6cd1a52b06d7bed1bd0bda75b917eb18667e060c175952babc50733bf3a7e40_square_s.jpeg?v=1675092551" group-title="Showroom",Showroom Muthe/ムテ（JKT48）
-https://hls-origin279.showroom-cdn.com/liveedge/ngrp:d199a1279a37dfba82cc228c6369783314875c66ebb432f6c3cdc4a0fd99b4c7_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gita/ギタ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/388fa55ee4ee2a438a34d1b0a71de03f472b76b5560203930f103850edb577c8_square_s.jpeg?v=1675092700" group-title="Showroom",Showroom Gita/ギタ（JKT48）
 https://hls-origin246.showroom-cdn.com/liveedge/ngrp:c84ce489178f0c9f9bc0c053f290068acafcfeb7db513de033a5398b80512f6e_all/playlist.m3u8

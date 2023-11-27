@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
 https://hls-origin244.showroom-cdn.com/liveedge/ngrp:49168140a3a80e5ef4ac12afe6be776ba48f37a205439aa17ff951ec766cfd3a_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Raisha /ライシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b5e493484b3fdd07ebadfd478837295c9968208cf3721934b46611eca5cb92b8_square_s.jpeg?v=1685542844" group-title="Showroom",Showroom Raisha /ライシャ（JKT48）
-https://hls-origin243.showroom-cdn.com/liveedge/ngrp:985a876a2751e2561022185b4dcb2e73269169779256b2b5b4f17673598db026_all/playlist.m3u8

@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oniel/オニエル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/6f5b72d14f8cf4d61ab8c16aa8b7a9c387c5f6de37f513a884b6fbadabb5784d_square_s.jpeg?v=1675092204" group-title="Showroom",Showroom Oniel/オニエル（JKT48）
+https://hls-origin243.showroom-cdn.com/liveedge/ngrp:27b4fe2fa54f2716d1a71ffb77030197b03ce41ada9de3fbedc31b6ffdf6a98b_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
+https://hls-origin278.showroom-cdn.com/liveedge/ngrp:89bc90fc2d6bcb770f8a9abe5e33d215b7938884b87975855cf037372454e7c2_all/playlist.m3u8

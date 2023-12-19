@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1675091920" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
+https://hls-origin243.showroom-cdn.com/liveedge/ngrp:9196e90271682bd7ddfc3bb54299cbaf5ba89e2ada02034bfe202195333b4c59_all/playlist.m3u8

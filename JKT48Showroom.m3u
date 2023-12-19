@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Michie /ミチー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/fc878be06fb484b4edcb8051e8456a93279b2395e711aada3d7547b1b78e3720_square_s.jpeg?v=1675342385" group-title="Showroom",Showroom Michie /ミチー（JKT48）
 https://hls-origin276.showroom-cdn.com/liveedge/ngrp:e9b93282f4af55455c92ce820a5a80eee9252e9b5addfebf42c84c2caf5bf805_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1675341391" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
-https://hls-origin241.showroom-cdn.com/liveedge/ngrp:7a7adf1d07afa61570a4be63320d13f4838115f985716b968535a427c1280d46_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1675341704" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
-https://hls-origin202.showroom-cdn.com/liveedge/ngrp:fcda4bf72228beb259b416db1940f9417bbeec75bbbb9d9786f0ed0cb85057d0_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
 https://hls-origin207.showroom-cdn.com/liveedge/ngrp:457a3340b17e2b51c22b9ad0d576a3cd8e881ec4e495e874dda2a6651062cd64_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）

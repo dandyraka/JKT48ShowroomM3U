@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
+https://hls-origin279.showroom-cdn.com/liveedge/ngrp:87e8e4fca9f63221cc35559ac7955e6a79f7521a0ef194b665f5e3911f54db4d_all/playlist.m3u8

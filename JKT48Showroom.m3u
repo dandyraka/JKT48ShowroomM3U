@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shani/シャニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/15391680ed61e9c6c53454d5f56f63236e29a261ee5054e42daee3f04b630567_square_s.jpeg?v=1675092515" group-title="Showroom",Showroom Shani/シャニ（JKT48）
+https://hls-origin201.showroom-cdn.com/liveedge/ngrp:e1317e2d935aa99384190bcbf1171072ff426165378a662a15b5353f4f641f5b_all/playlist.m3u8

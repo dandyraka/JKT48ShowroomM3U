@@ -5,3 +5,5 @@ https://hls-origin242.showroom-cdn.com/liveedge/ngrp:b97d4edeb0d890bdee62a417854
 https://hls-origin292.showroom-cdn.com/liveedge/ngrp:438fba51dc2bdd544c3b2f18c8635409e9aded909d0a0c9e1932b5001418d483_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gendis /ゲンディス（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/4e2f064db08d9b22d45a2ff98271ca8754e2f058981823193d38c8e22cb09e00_square_s.jpeg?v=1675341052" group-title="Showroom",Showroom Gendis /ゲンディス（JKT48）
 https://hls-origin214.showroom-cdn.com/liveedge/ngrp:283290aa44243b04b800e4dd8b0ef724fd32720d99cc6624292def404dfcdc17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Alya /アリア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0a1644ab1bc0333a175bbd13744995241b42a796d81fb939b5def608942a8e96_square_s.jpeg?v=1675335926" group-title="Showroom",Showroom Alya /アリア（JKT48）
+https://hls-origin272.showroom-cdn.com/liveedge/ngrp:f63a5f7fdac21bfedd42d06f40e85ce89e2565fb53f1ffb3ff45c3484a01bd6a_all/playlist.m3u8

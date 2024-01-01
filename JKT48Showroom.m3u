@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1685542598" group-title="Showroom",Showroom Lia /リア（JKT48）
 https://hls-origin271.showroom-cdn.com/liveedge/ngrp:12a560b396ba1946f18b2f03e3432cbca9a0d167c47562036a835e8c8720f1b4_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
+https://hls-origin214.showroom-cdn.com/liveedge/ngrp:bdfb5b424f3835b424b65b5d1e0a092b6f6eda13b75002fa8d0f443d0c5b8c0b_all/playlist.m3u8

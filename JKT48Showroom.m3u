@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Feni/フェニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bc8b10acffc5adee44b5d8b7dade3bc9435607fe3a766ae772ec633ac08b649b_square_s.jpeg?v=1675092939" group-title="Showroom",Showroom Feni/フェニ（JKT48）
 https://hls-origin246.showroom-cdn.com/liveedge/ngrp:9c710c5bdd0f15d9c78e5add14a01aa1cd63ab9e83b3c99f40c012ee35e61850_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
-https://hls-origin214.showroom-cdn.com/liveedge/ngrp:bdfb5b424f3835b424b65b5d1e0a092b6f6eda13b75002fa8d0f443d0c5b8c0b_all/playlist.m3u8

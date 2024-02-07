@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
+https://hls-origin247.showroom-cdn.com/liveedge/ngrp:01a287baf030ad6ad0e9c86461805527f63f32c2b1b814dc814a5fea142c1d20_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Olla/オラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/79b9c42d1f5ea5d5805fefcfac6e92198e434cd6b6244c79b309b9e93ab3f7cb_square_s.jpeg?v=1675092110" group-title="Showroom",Showroom Olla/オラ（JKT48）
 https://hls-origin245.showroom-cdn.com/liveedge/ngrp:6699348904eb9735cdb70f8d5e039edd20df0089948e018753e8813f6b47d9d9_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1675091920" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）

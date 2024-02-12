@@ -1,5 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Christy/クリスティー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b704fbdc371c9dd64fa6b2a15839ae3e912e9a5f76173d40502969a31a936f4_square_s.jpeg?v=1675092800" group-title="Showroom",Showroom Christy/クリスティー（JKT48）
-https://hls-origin219.showroom-cdn.com/liveedge/ngrp:a3cce49c53a5c8b030083468dfb82052f2f6903e19cfaedb329f906ea2e09f3a_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Muthe/ムテ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d6cd1a52b06d7bed1bd0bda75b917eb18667e060c175952babc50733bf3a7e40_square_s.jpeg?v=1675092551" group-title="Showroom",Showroom Muthe/ムテ（JKT48）
-https://hls-origin201.showroom-cdn.com/liveedge/ngrp:90dcfbe91ec720d887d6f7e551bf94fe9b48c859a3f52156539e4083bbb0844f_all/playlist.m3u8

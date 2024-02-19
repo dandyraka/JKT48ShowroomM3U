@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom JKT48 Official SHOWROOM" tvg-logo="undefined" group-title="Showroom",Showroom JKT48 Official SHOWROOM
+https://hls-origin240.showroom-cdn.com/liveedge/ngrp:52d443ce235eedd2fd87941b009e95d08cc30fce0e542d755fb7ebd51cbb46b0_all/playlist.m3u8

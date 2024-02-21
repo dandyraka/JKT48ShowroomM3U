@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Alya /アリア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0a1644ab1bc0333a175bbd13744995241b42a796d81fb939b5def608942a8e96_square_s.jpeg?v=1675335926" group-title="Showroom",Showroom Alya /アリア（JKT48）
+https://hls-origin276.showroom-cdn.com/liveedge/ngrp:379f42449079f7345eab1db88678d29e7685513da304d427241ed373cd9c8216_all/playlist.m3u8

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracia/グラシア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/3026b77b664e3f6acc416ed606d20c23356fe91d18cb4345d53715ac50541912_square_s.jpeg?v=1675092465" group-title="Showroom",Showroom Gracia/グラシア（JKT48）
-https://hls-origin218.showroom-cdn.com/liveedge/ngrp:2642e07e276bdecade4426fed80eabe257f0b6abd03cdcd2ddea708c2bc46a3e_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Feni/フェニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bc8b10acffc5adee44b5d8b7dade3bc9435607fe3a766ae772ec633ac08b649b_square_s.jpeg?v=1675092939" group-title="Showroom",Showroom Feni/フェニ（JKT48）
 https://hls-origin280.showroom-cdn.com/liveedge/ngrp:119915b01ff702895ba02ca04609824575a7ec2589d4319de1c28dafd058521c_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jeane /ジーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/cd068c05e4e342a9986c37a00f0342cfdfa346221a685af4e1f5fbe8a55ad58a_square_s.jpeg?v=1675342098" group-title="Showroom",Showroom Jeane /ジーン（JKT48）

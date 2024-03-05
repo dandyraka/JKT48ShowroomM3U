@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1675341391" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
+https://hls-origin273.showroom-cdn.com/liveedge/ngrp:a289ff121ad493d643072cd9558424eb60c2c6c6873ba75363b14426296e6b51_all/playlist.m3u8

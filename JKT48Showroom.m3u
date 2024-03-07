@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lulu /ルル （JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0dfb9a6b2a6d51b17d0149d72ac19992469d2734876ca2c1d55672ae91e0943_square_s.jpeg?v=1675091765" group-title="Showroom",Showroom Lulu /ルル （JKT48）
+https://hls-origin214.showroom-cdn.com/liveedge/e9ce1d0830214d9bf18fdf0aa64760550749aabc26a4d2ff58609e6b2fe7a396/chunklist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lyn /リーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/261d835846ccd54052d7bede79f89171d1f79af054ada2fecf81086644ff6ea4_square_s.jpeg?v=1685542810" group-title="Showroom",Showroom Lyn /リーン（JKT48）
+https://hls-origin248.showroom-cdn.com/liveedge/ngrp:98a9fb8fafb1ae3ad30204d139fc9aa803d462b51396e6c31ec140dde269bf79_all/playlist.m3u8

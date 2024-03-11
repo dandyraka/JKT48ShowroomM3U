@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fiony /フィオニー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a2345e2127cf122ef7adb9d988a41e080dbd7f0db28bfc113335b7a341b68c7e_square_s.jpeg?v=1675092072" group-title="Showroom",Showroom Fiony /フィオニー（JKT48）
 https://hls-origin247.showroom-cdn.com/liveedge/ngrp:c44ff4c4322dc7d5e32876397fb43133580e7655c60bbde2a4ba764eb5a94153_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Callie /カリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b558b8317e4ec4aa4d6afdb9c7c62675cdd352a49bf2a42d2900ec35aa32a67_square_s.jpeg?v=1685542636" group-title="Showroom",Showroom Callie /カリー（JKT48）
-https://hls-origin279.showroom-cdn.com/liveedge/ngrp:7fe3fe870486020f466bd8f2915b240fb3689951aaa6d064c0075c0e785bb64f_all/playlist.m3u8

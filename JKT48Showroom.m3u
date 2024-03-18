@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
 https://hls-origin246.showroom-cdn.com/liveedge/ngrp:c65b630d6f3806f037540cd9690720e8cfae65a85357076c94354dd32b735615_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Indah/インダー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/58f3d939319e28956fd771e0f587a347ea0fec6b5c3415067e122f4794fd3514_square_s.jpeg?v=1675091960" group-title="Showroom",Showroom Indah/インダー（JKT48）
+https://hls-origin220.showroom-cdn.com/liveedge/ngrp:231571348ab0dcdc54bdeefd62964629f5b8963cb058d7ea12ed860c971f12e4_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
 https://hls-origin274.showroom-cdn.com/liveedge/ngrp:12f27dbffab6735c757ca74dd4088f2f26b2a07e04e2ed5f55fe67c2d119d07a_all/playlist.m3u8

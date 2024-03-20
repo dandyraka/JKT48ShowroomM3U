@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cynthia /シンティア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e3e88b5c96d4af6c2bd0e951809d808214a6bb8837903c1d8a83fa87ad1ea080_square_s.jpeg?v=1675338496" group-title="Showroom",Showroom Cynthia /シンティア（JKT48）
+https://hls-origin273.showroom-cdn.com/liveedge/ngrp:9b8d636fddd6895714d5095cb018edf780d86e8b740f116a0a485c1fc9c62473_all/playlist.m3u8

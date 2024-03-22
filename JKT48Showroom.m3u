@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Callie /カリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b558b8317e4ec4aa4d6afdb9c7c62675cdd352a49bf2a42d2900ec35aa32a67_square_s.jpeg?v=1685542636" group-title="Showroom",Showroom Callie /カリー（JKT48）
-https://hls-origin241.showroom-cdn.com/liveedge/ngrp:6f1288cc1cb342ce9ba52ed5a04156b2b97b28de3246c8044bc8cf4283092055_all/playlist.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

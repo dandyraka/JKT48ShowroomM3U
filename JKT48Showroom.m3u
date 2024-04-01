@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Zee/ジー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a9aa6279cf53c4b3f2d79e35a098e94934506edc56b60896dcc44a45f940611e_square_s.jpeg?v=1675092985" group-title="Showroom",Showroom Zee/ジー（JKT48）
 https://hls-css.live.showroom-live.com/live/8939f3ae682233cf1eaedd34607052941935288a744f11c459124ec13c972127_default.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Danella /ダネラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/002771d7d8969132b8749564920a354426fad0c56857e3818de960035c560ed7_square_s.jpeg?v=1675339003" group-title="Showroom",Showroom Danella /ダネラ（JKT48）
+https://hls-css.live.showroom-live.com/live/6eb999e5379cb5cca66540d949f3321aaf99234f03c1222274b6de6f4e6c70f2_default.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Elin /エリン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d0ab8b151a1a0f7c2a69ea29624ef4ae7800ef1bee00df7f8c0c1f103331079d_square_s.jpeg?v=1675340527" group-title="Showroom",Showroom Elin /エリン（JKT48）
+https://hls-css.live.showroom-live.com/live/559e2a20bbf23aac0d1b483dc12e688b192b832417c581c9653b631f09bf005d_default.m3u8

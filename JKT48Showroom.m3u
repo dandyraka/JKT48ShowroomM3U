@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Zee/ジー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a9aa6279cf53c4b3f2d79e35a098e94934506edc56b60896dcc44a45f940611e_square_s.jpeg?v=1675092985" group-title="Showroom",Showroom Zee/ジー（JKT48）
+https://hls-css.live.showroom-live.com/live/8939f3ae682233cf1eaedd34607052941935288a744f11c459124ec13c972127_default.m3u8

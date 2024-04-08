@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Trisha / トリシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/95a3d0591d9dfe7145a1bd75bf60b49cd7ca7aae7fdbd7c09b208cc7e48389ff_square_s.jpeg?v=1712516077" group-title="Showroom",Showroom Trisha / トリシャ（JKT48）
-https://hls-css.live.showroom-live.com/live/6addd232d27a59bf8117d88ead5cdf9952d197666f52de55db5cacd21cbf769a_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Regie / レギー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0e802ed7cc95dd9ce47f7d940b04b22655fdec8240585de2f1c9f63596e6af89_square_s.jpeg?v=1712491131" group-title="Showroom",Showroom Regie / レギー（JKT48）
 https://hls-css.live.showroom-live.com/live/6b22a6bd729311d812867aba44de275036b8c92985c8d066173c84923fa2b247_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nayla / ナイラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7f0a24fb6d6d354299b727610887cba42d22cd4b15c15a708bdffea42ca623cb_square_s.jpeg?v=1712491208" group-title="Showroom",Showroom Nayla / ナイラ（JKT48）
-https://hls-css.live.showroom-live.com/live/4506f408c3f595ef7924f2d30012d5ee745b6c4e5c932a9cb29b7cafd05ce290_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lana / ラナ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bbf5793ce9431e26532a55331376e1f2428e8bc1365960f1468602383361ad68_square_s.jpeg?v=1712491363" group-title="Showroom",Showroom Lana / ラナ（JKT48）
+https://hls-css.live.showroom-live.com/live/13fd61a990a2a5b976a980ee21ee5af2c21f5af840741a03beef003ed96b26f7_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fritzy / フリッツィー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f5a4b163de5618013399ceb9dca9028aa00ef7e635813ca9f06aa941024f6890_square_s.jpeg?v=1712491336" group-title="Showroom",Showroom Fritzy / フリッツィー（JKT48）
+https://hls-css.live.showroom-live.com/live/6670497abe82d48b5e5224bdbd8a32ccc584de8ed3cb103a8c2cc0ecb814484e_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Aralie / アラリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7bbb128443499700909dea11a4e2d9973c9f9c74974b3dafe269ec7b6dbc3315_square_s.jpeg?v=1712491458" group-title="Showroom",Showroom Aralie / アラリー（JKT48）
+https://hls-css.live.showroom-live.com/live/7570458e6fbd2a02c1a65d2b9674ed4b74507c63742b31c46d5f258d4fec4d8a_abr.m3u8

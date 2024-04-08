@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Delynn / デリンヌ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2ad9a198ac8cc653476c6c5c3b29d8089e621299ab2cb6fa97159e92eb733d7d_square_s.jpeg?v=1712494974" group-title="Showroom",Showroom Delynn / デリンヌ（JKT48）
-https://hls-css.live.showroom-live.com/live/97929b14b1b8f5ab2d8b0ca9b228d7bc05be2f4004eb63ffcb278395fbda2222_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shasa / シャサ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2060a5acd4c2302ef84f8c3ea33d1de590c09635fe18be0a538fc7c832a29ccf_square_s.jpeg?v=1712516035" group-title="Showroom",Showroom Shasa / シャサ（JKT48）
 https://hls-css.live.showroom-live.com/live/7ffa2e1ff0bdb166444b24799f43a41f21ba70b2edd57e950f133c8093a00644_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nala / ナラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e44adf3c6b43f688c3203dc24922621299a959827611d233c5390bc97e68e217_square_s.jpeg?v=1712491107" group-title="Showroom",Showroom Nala / ナラ（JKT48）
-https://hls-css.live.showroom-live.com/live/e923b08459f0f4fb73ecaa6ff8c83f3d369525af6cfe74285150846e70e1b798_abr.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

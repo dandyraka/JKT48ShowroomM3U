@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Kimmy / キミー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b490a7a1fb00562ff0f7e481c69269bf0fd4cf0ac162ff645a999cdff204f954_square_s.jpeg?v=1712515998" group-title="Showroom",Showroom Kimmy / キミー（JKT48）
-https://hls-css.live.showroom-live.com/live/f011fe34eb076c0ea4a795c7065afd147e4799e3ef2392db370a9ac0d77bcb59_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Trisha / トリシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/95a3d0591d9dfe7145a1bd75bf60b49cd7ca7aae7fdbd7c09b208cc7e48389ff_square_s.jpeg?v=1712516077" group-title="Showroom",Showroom Trisha / トリシャ（JKT48）
 https://hls-css.live.showroom-live.com/live/6addd232d27a59bf8117d88ead5cdf9952d197666f52de55db5cacd21cbf769a_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Kimmy / キミー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b490a7a1fb00562ff0f7e481c69269bf0fd4cf0ac162ff645a999cdff204f954_square_s.jpeg?v=1712515998" group-title="Showroom",Showroom Kimmy / キミー（JKT48）
+https://hls-css.live.showroom-live.com/live/f011fe34eb076c0ea4a795c7065afd147e4799e3ef2392db370a9ac0d77bcb59_abr.m3u8

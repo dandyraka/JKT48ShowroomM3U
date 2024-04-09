@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Zee/ジー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a9aa6279cf53c4b3f2d79e35a098e94934506edc56b60896dcc44a45f940611e_square_s.jpeg?v=1712210418" group-title="Showroom",Showroom Zee/ジー（JKT48）
 https://hls-css.live.showroom-live.com/live/08e12d12fc1b76e56868b4f361b2d71742b7008875f6a75ace4725ec7c97d135_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nachia / ナチア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/be9cc81c23250f46d686c9a750c5876b19f6c93234b2d3bdabc5c71ae9be4835_square_s.jpeg?v=1712516095" group-title="Showroom",Showroom Nachia / ナチア（JKT48）
+https://hls-css.live.showroom-live.com/live/43e3c357753ff450147418692ca984210a8f8e1067a69504eba059f7b433f5e3_abr.m3u8

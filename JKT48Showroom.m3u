@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cathy/キャシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bd930dc883c8d96916deacf2bff1827f387b1cf86a3042b7fd95352c44a5bba3_square_s.jpeg?v=1675337073" group-title="Showroom",Showroom Cathy/キャシー（JKT48）
 https://hls-css.live.showroom-live.com/live/242d35ae582031b4f74d7557369fb729f7d5dca47091b1caeeac3a60a658791e_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lyn /リーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/261d835846ccd54052d7bede79f89171d1f79af054ada2fecf81086644ff6ea4_square_s.jpeg?v=1712209430" group-title="Showroom",Showroom Lyn /リーン（JKT48）
-https://hls-css.live.showroom-live.com/live/a3dd1434868445b08cb6e327818aa063897cd6a516a070654d22fcead09281fa_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Callie /カリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b558b8317e4ec4aa4d6afdb9c7c62675cdd352a49bf2a42d2900ec35aa32a67_square_s.jpeg?v=1712209536" group-title="Showroom",Showroom Callie /カリー（JKT48）
 https://hls-css.live.showroom-live.com/live/76b127374d4d90851617a9012a900b559747a28b35e8e06f3410ac563fd4243e_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lyn /リーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/261d835846ccd54052d7bede79f89171d1f79af054ada2fecf81086644ff6ea4_square_s.jpeg?v=1712209430" group-title="Showroom",Showroom Lyn /リーン（JKT48）
+https://hls-css.live.showroom-live.com/live/a3dd1434868445b08cb6e327818aa063897cd6a516a070654d22fcead09281fa_abr.m3u8

@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1712209813" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
+https://hls-css.live.showroom-live.com/live/62d56a6c399b6fdace4dafa2454bd5e542acd162afae29a59e073e2b4566a466_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Callie /カリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8b558b8317e4ec4aa4d6afdb9c7c62675cdd352a49bf2a42d2900ec35aa32a67_square_s.jpeg?v=1712209536" group-title="Showroom",Showroom Callie /カリー（JKT48）
+https://hls-css.live.showroom-live.com/live/8f7d7fd74a533ec35fcf8e2b5b09aeab524849cbaed3f6759589e97e8404bf94_abr.m3u8

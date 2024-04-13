@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nayla / ナイラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7f0a24fb6d6d354299b727610887cba42d22cd4b15c15a708bdffea42ca623cb_square_s.jpeg?v=1712491208" group-title="Showroom",Showroom Nayla / ナイラ（JKT48）
 https://hls-css.live.showroom-live.com/live/abc05d1e5554571633a07351d4f161177c4b7a5c0560c5dd2aadd031bbb4e560_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nala / ナラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e44adf3c6b43f688c3203dc24922621299a959827611d233c5390bc97e68e217_square_s.jpeg?v=1712491107" group-title="Showroom",Showroom Nala / ナラ（JKT48）
+https://hls-css.live.showroom-live.com/live/f5a7278f8656081fb79e58cf874a1affdb656ca7f26b67da1bb51e6df9f5c58c_abr.m3u8

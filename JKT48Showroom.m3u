@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Daisy /デイシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/a5054230e2eeeae789ccdf134345e4f3cf05801d689d9ec57397d34eae090343_square_s.jpeg?v=1675338832" group-title="Showroom",Showroom Daisy /デイシー（JKT48）
+https://hls-css.live.showroom-live.com/live/3e9e22983d1732b7669011c8ebb7a7261bd8a5a0865eee51544f8a1bea7c23c2_abr.m3u8

@@ -1,9 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
 https://hls-css.live.showroom-live.com/live/c76402a681ebb44063955e2c75744f75a0c1dd2d98e5107eb405341ea8a3ad41_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cynthia /シンティア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e3e88b5c96d4af6c2bd0e951809d808214a6bb8837903c1d8a83fa87ad1ea080_square_s.jpeg?v=1675338496" group-title="Showroom",Showroom Cynthia /シンティア（JKT48）
-https://hls-css.live.showroom-live.com/live/0215bfac1e13781159709d2e1dec0fa9f8eabcbf807df990bc50f1c3a526971e_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Erine / エリン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/1dcb1281d3280600c17e1881a5a97e17051f795b65b26b0ae42841acc779facd_square_s.jpeg?v=1712516054" group-title="Showroom",Showroom Erine / エリン（JKT48）
+https://hls-css.live.showroom-live.com/live/2bbc822656d423420473b4641b83cbede852b7e36dfe18dc0e126e899b25f55c_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Aralie / アラリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7bbb128443499700909dea11a4e2d9973c9f9c74974b3dafe269ec7b6dbc3315_square_s.jpeg?v=1712491458" group-title="Showroom",Showroom Aralie / アラリー（JKT48）
 https://hls-css.live.showroom-live.com/live/c51f6756a8cc328f230054061123e59ccd8e929d6a1ca4f26ae88fd72e429d5f_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Chelsea /チェルシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b0c6197686670eb07c6f4c8bff0d2ca67b72f74280d04df61229076507dda3ff_square_s.jpeg?v=1675337537" group-title="Showroom",Showroom Chelsea /チェルシー（JKT48）
 https://hls-css.live.showroom-live.com/live/d48c9b40f37aa11a4726f07eeff848f40ee955eab3899b7869b482c9c572f7a6_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Kimmy / キミー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/b490a7a1fb00562ff0f7e481c69269bf0fd4cf0ac162ff645a999cdff204f954_square_s.jpeg?v=1712515998" group-title="Showroom",Showroom Kimmy / キミー（JKT48）
+https://hls-css.live.showroom-live.com/live/672aea2e970910725b06fc3783cb10c338e69010d9102f1fd5de3b2018fcef82_abr.m3u8

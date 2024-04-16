@@ -4,7 +4,7 @@ Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Delynn / デリンヌ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2ad9a198ac8cc653476c6c5c3b29d8089e621299ab2cb6fa97159e92eb733d7d_square_s.jpeg?v=1712494974" group-title="Showroom",Showroom Delynn / デリンヌ（JKT48）
 Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
+https://hls-css.live.showroom-live.com/live/c76402a681ebb44063955e2c75744f75a0c1dd2d98e5107eb405341ea8a3ad41_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Aralie / アラリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7bbb128443499700909dea11a4e2d9973c9f9c74974b3dafe269ec7b6dbc3315_square_s.jpeg?v=1712491458" group-title="Showroom",Showroom Aralie / アラリー（JKT48）
 https://hls-css.live.showroom-live.com/live/c51f6756a8cc328f230054061123e59ccd8e929d6a1ca4f26ae88fd72e429d5f_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Cynthia /シンティア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e3e88b5c96d4af6c2bd0e951809d808214a6bb8837903c1d8a83fa87ad1ea080_square_s.jpeg?v=1675338496" group-title="Showroom",Showroom Cynthia /シンティア（JKT48）

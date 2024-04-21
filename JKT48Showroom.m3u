@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Ella /エラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/33b9a09551fb56e388c636720e88c310983d759c7be62230d59aa4a84303e1dc_square_s.jpeg?v=1712209505" group-title="Showroom",Showroom Ella /エラ（JKT48）
+https://hls-css.live.showroom-live.com/live/5f59f3ee146144cf7bd7b9c8a36f28f1b25b0c01f42b818390ebee7b23827a22_abr.m3u8

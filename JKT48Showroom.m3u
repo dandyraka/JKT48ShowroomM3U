@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Adel/アデル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f459e9d740545298dcc1ac26e558b3c7a8a679a24369e1f86256b21c6faf4547_square_s.jpeg?v=1712209664" group-title="Showroom",Showroom Adel/アデル（JKT48）
-Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lily / リリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/60d4c94941de7e2ab93f05ed5eb60dd1ae7b97936422b289335be63f23d61b27_square_s.jpeg?v=1712491320" group-title="Showroom",Showroom Lily / リリー（JKT48）
 https://hls-css.live.showroom-live.com/live/424a9ec68bbc3f2e1d7ed72d51cc3c04d9f2f4ea33497099b9bcd68b655a2a5d_abr.m3u8

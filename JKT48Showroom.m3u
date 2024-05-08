@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Feni/フェニ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bc8b10acffc5adee44b5d8b7dade3bc9435607fe3a766ae772ec633ac08b649b_square_s.jpeg?v=1712210390" group-title="Showroom",Showroom Feni/フェニ（JKT48）
-https://hls-css.live.showroom-live.com/live/28e23436834c3f0f98aa679ee6d5ba38727be8307986a1cdd63a04a198fdeafa_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Alya /アリア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0a1644ab1bc0333a175bbd13744995241b42a796d81fb939b5def608942a8e96_square_s.jpeg?v=1675335926" group-title="Showroom",Showroom Alya /アリア（JKT48）
-https://hls-css.live.showroom-live.com/live/68c661dd932b6dc6272d732207157aadb27398096443e10f25ddbc91bfbf4cc2_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1712209813" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
+https://hls-css.live.showroom-live.com/live/54c24eae8eeb48a286efd3455a3a2558aabef9b758f4472455e937a5698f7704_abr.m3u8

@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1712209587" group-title="Showroom",Showroom Lia /リア（JKT48）
-https://hls-css.live.showroom-live.com/live/4b8d1ae11d413681ed7718aabc311318a1b1de541a587c88cad242db9cad9829_abr.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')

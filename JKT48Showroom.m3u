@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
-https://hls-css.live.showroom-live.com/live/877bb871c209eb25f0cd616c7f35882511f8f09e566c74369a02405335771299_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Erine / エリン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/1dcb1281d3280600c17e1881a5a97e17051f795b65b26b0ae42841acc779facd_square_s.jpeg?v=1712516054" group-title="Showroom",Showroom Erine / エリン（JKT48）
 https://hls-css.live.showroom-live.com/live/f2a714029bea04426b454b2edf3affd25da443212193a1332fc68c4f7b1bd433_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Anindya /アニンディア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/ab71b7dec20fb6950c5afba136808e39486665d861f0592d1457a9682f78736b_square_s.jpeg?v=1675336305" group-title="Showroom",Showroom Anindya /アニンディア（JKT48）
+https://hls-css.live.showroom-live.com/live/877bb871c209eb25f0cd616c7f35882511f8f09e566c74369a02405335771299_abr.m3u8

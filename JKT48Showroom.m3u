@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lily / リリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/60d4c94941de7e2ab93f05ed5eb60dd1ae7b97936422b289335be63f23d61b27_square_s.jpeg?v=1712491320" group-title="Showroom",Showroom Lily / リリー（JKT48）
-https://hls-css.live.showroom-live.com/live/500edd761be38c06976a437dc5b6b2a57bc2a822f6a1334a1c4564d2ed8db964_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Erine / エリン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/1dcb1281d3280600c17e1881a5a97e17051f795b65b26b0ae42841acc779facd_square_s.jpeg?v=1712516054" group-title="Showroom",Showroom Erine / エリン（JKT48）
 https://hls-css.live.showroom-live.com/live/7ddb44bd6ed56704a97b0c95f536edf23b1f2a3f43d13604fe0df0a1cbc09f9b_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lily / リリー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/60d4c94941de7e2ab93f05ed5eb60dd1ae7b97936422b289335be63f23d61b27_square_s.jpeg?v=1712491320" group-title="Showroom",Showroom Lily / リリー（JKT48）
+https://hls-css.live.showroom-live.com/live/500edd761be38c06976a437dc5b6b2a57bc2a822f6a1334a1c4564d2ed8db964_abr.m3u8

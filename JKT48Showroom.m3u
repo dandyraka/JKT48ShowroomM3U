@@ -1,1 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Shasa / シャサ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/2060a5acd4c2302ef84f8c3ea33d1de590c09635fe18be0a538fc7c832a29ccf_square_s.jpeg?v=1712516035" group-title="Showroom",Showroom Shasa / シャサ（JKT48）
+https://hls-css.live.showroom-live.com/live/d363743f2195049d4d179d3cd7f4dd0660aba247c0cb5cdabe65c2e684888586_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Ribka / リブカ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0ea497d76f19f795612efedadd1951482c140044483b8b67cbac909e34309363_square_s.jpeg?v=1712493461" group-title="Showroom",Showroom Ribka / リブカ（JKT48）
+https://hls-css.live.showroom-live.com/live/7d38c3559642bc3dc3409522aaad1b2f759b7f1996721b7ca8ea8df613a1e258_abr.m3u8

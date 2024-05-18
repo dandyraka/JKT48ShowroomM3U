@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lyn /リーン（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/261d835846ccd54052d7bede79f89171d1f79af054ada2fecf81086644ff6ea4_square_s.jpeg?v=1712209430" group-title="Showroom",Showroom Lyn /リーン（JKT48）
+https://hls-css.live.showroom-live.com/live/4869c9d05c8da13f44e219cd5a4873595429564e0b93a5c5c1ac28d6071b1230_abr.m3u8

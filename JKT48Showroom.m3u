@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Regie / レギー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0e802ed7cc95dd9ce47f7d940b04b22655fdec8240585de2f1c9f63596e6af89_square_s.jpeg?v=1712491131" group-title="Showroom",Showroom Regie / レギー（JKT48）
-https://hls-css.live.showroom-live.com/live/b46a7b09c2a07fa7dae371df2f70001d08a81d13700bf3518035c00df5a99e1f_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nayla / ナイラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7f0a24fb6d6d354299b727610887cba42d22cd4b15c15a708bdffea42ca623cb_square_s.jpeg?v=1712491208" group-title="Showroom",Showroom Nayla / ナイラ（JKT48）
-https://hls-css.live.showroom-live.com/live/a1477cc03bfda6410bd260851b9de6b82b5579b1b84be711dd28ca80324701d2_abr.m3u8
+Fetch Error: TypeError: Cannot read properties of undefined (reading '0')
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nala / ナラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/e44adf3c6b43f688c3203dc24922621299a959827611d233c5390bc97e68e217_square_s.jpeg?v=1712491107" group-title="Showroom",Showroom Nala / ナラ（JKT48）
+https://hls-css.live.showroom-live.com/live/4de708f4e0310be7cbb82f4418432167ff16724911ade59150459e9803648594_abr.m3u8

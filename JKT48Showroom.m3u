@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Muthe/ムテ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/d6cd1a52b06d7bed1bd0bda75b917eb18667e060c175952babc50733bf3a7e40_square_s.jpeg?v=1712210247" group-title="Showroom",Showroom Muthe/ムテ（JKT48）
 https://hls-css.live.showroom-live.com/live/b2172ff2f590325cc9094416669a7b0a0c06c8c94817fa08e3e8d50835028b78_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1712209587" group-title="Showroom",Showroom Lia /リア（JKT48）
-https://hls-css.live.showroom-live.com/live/566e2517f15df923aa7e97285a7c1d0cef0e4ace1f2e8fcc1b05b359771db9c8_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Gracie /グラシー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/510862226ac09996461772b226e5fa4a30ce574bce18672725724e0284c8fed2_square_s.jpeg?v=1712210114" group-title="Showroom",Showroom Gracie /グラシー（JKT48）
 https://hls-css.live.showroom-live.com/live/80d26e02219ce79dea98e99f127148d6068c0d089f18f0307489929a93751756_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lia /リア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/104f71ef35980e70baeb6a7ed59f18c7374f9a33bf7d1720a0581b8a0b2edb1e_square_s.jpeg?v=1712209587" group-title="Showroom",Showroom Lia /リア（JKT48）
+https://hls-css.live.showroom-live.com/live/566e2517f15df923aa7e97285a7c1d0cef0e4ace1f2e8fcc1b05b359771db9c8_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Jessi/ジェシ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/293a846d52a0e9b04a50dafb6c0f80367256a0f3e2a7d9fdc5e92e572ad2415f_square_s.jpeg?v=1712209813" group-title="Showroom",Showroom Jessi/ジェシ（JKT48）
 https://hls-css.live.showroom-live.com/live/2fe553b91558d119cd32b257728a1a8186425547c2aaea11da2d2a5aa552d816_abr.m3u8

@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Greesel /グリーセル（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/940f5a1692b60af65bcec53d6db81138436b4ada3b796b7f0ac69aab2c4870bd_square_s.jpeg?v=1712210171" group-title="Showroom",Showroom Greesel /グリーセル（JKT48）
 https://hls-css.live.showroom-live.com/live/209b600431519f40c0f89fe993fb85371238ce96631de8c711452e9524959580_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Alya /アリア（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0a1644ab1bc0333a175bbd13744995241b42a796d81fb939b5def608942a8e96_square_s.jpeg?v=1675335926" group-title="Showroom",Showroom Alya /アリア（JKT48）
+https://hls-css.live.showroom-live.com/live/9ac3184d584d90710de8d27ba3ccbe684fe2d1852661db2c60c9858ef5d2b806_abr.m3u8

@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fritzy / フリッツィー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f5a4b163de5618013399ceb9dca9028aa00ef7e635813ca9f06aa941024f6890_square_s.jpeg?v=1716897514" group-title="Showroom",Showroom Fritzy / フリッツィー（JKT48）
-https://hls-css.live.showroom-live.com/live/efb0c643887c2a758b330df6b27e45145cffee7bd221ad2ef57d556c13684e48_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nayla / ナイラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7f0a24fb6d6d354299b727610887cba42d22cd4b15c15a708bdffea42ca623cb_square_s.jpeg?v=1716896733" group-title="Showroom",Showroom Nayla / ナイラ（JKT48）
-https://hls-css.live.showroom-live.com/live/eba2de604379625ae0b96eac8cbf8110ac034c5bea021fed2bb531b7fe0617ac_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lana / ラナ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bbf5793ce9431e26532a55331376e1f2428e8bc1365960f1468602383361ad68_square_s.jpeg?v=1716897606" group-title="Showroom",Showroom Lana / ラナ（JKT48）
 https://hls-css.live.showroom-live.com/live/5c7f7a9edc5360cd6b5c9849b55e14d29383367d41b48bf29c33c796c0ca9738_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Levi / レヴィ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8063737c0d03194a4a8f48a6be704c0b5c262ce326d8cdac428c75f552855166_square_s.jpeg?v=1716896749" group-title="Showroom",Showroom Levi / レヴィ（JKT48）
+https://hls-css.live.showroom-live.com/live/310644444978a94335ce8aada3b2dd22b121d5a2da2f2be8c56f2c264871e977_abr.m3u8

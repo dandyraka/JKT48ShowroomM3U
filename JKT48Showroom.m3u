@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oline / オリヌ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f27cc7e31f0e6551324bddb0cfe6981764e160fcef0731e53af327c34f721386_square_s.jpeg?v=1716896701" group-title="Showroom",Showroom Oline / オリヌ（JKT48）
-https://hls-css.live.showroom-live.com/live/6a355f4d93108b38a1f273f61572e61a9e6de1a282355146c728e48cf713284d_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Fritzy / フリッツィー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f5a4b163de5618013399ceb9dca9028aa00ef7e635813ca9f06aa941024f6890_square_s.jpeg?v=1716897514" group-title="Showroom",Showroom Fritzy / フリッツィー（JKT48）
 https://hls-css.live.showroom-live.com/live/efb0c643887c2a758b330df6b27e45145cffee7bd221ad2ef57d556c13684e48_abr.m3u8
-#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Regie / レギー（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/0e802ed7cc95dd9ce47f7d940b04b22655fdec8240585de2f1c9f63596e6af89_square_s.jpeg?v=1716896685" group-title="Showroom",Showroom Regie / レギー（JKT48）
-https://hls-css.live.showroom-live.com/live/095a28a115fcb374a4a4239dcd44094d7534ba1a65cc6a4a51ac20828e24108e_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Nayla / ナイラ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/7f0a24fb6d6d354299b727610887cba42d22cd4b15c15a708bdffea42ca623cb_square_s.jpeg?v=1716896733" group-title="Showroom",Showroom Nayla / ナイラ（JKT48）
 https://hls-css.live.showroom-live.com/live/eba2de604379625ae0b96eac8cbf8110ac034c5bea021fed2bb531b7fe0617ac_abr.m3u8
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lana / ラナ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bbf5793ce9431e26532a55331376e1f2428e8bc1365960f1468602383361ad68_square_s.jpeg?v=1716897606" group-title="Showroom",Showroom Lana / ラナ（JKT48）
+https://hls-css.live.showroom-live.com/live/5c7f7a9edc5360cd6b5c9849b55e14d29383367d41b48bf29c33c796c0ca9738_abr.m3u8

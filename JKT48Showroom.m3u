@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Oline / オリヌ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/f27cc7e31f0e6551324bddb0cfe6981764e160fcef0731e53af327c34f721386_square_s.jpeg?v=1716896701" group-title="Showroom",Showroom Oline / オリヌ（JKT48）
+https://hls-css.live.showroom-live.com/live/6a355f4d93108b38a1f273f61572e61a9e6de1a282355146c728e48cf713284d_abr.m3u8

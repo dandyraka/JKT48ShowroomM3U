@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Marsha/マーシャ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/31c718d6829b5e484fac4f3284acc40a9788271be0066153cb2bb48880558507_square_s.jpeg?v=1716898426" group-title="Showroom",Showroom Marsha/マーシャ（JKT48）
+https://hls-css.live.showroom-live.com/live/f5c86982c3315b90630b06b8ca968da8c56a71c0f2673f69a7f93baaeae97fdb_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Lana / ラナ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/bbf5793ce9431e26532a55331376e1f2428e8bc1365960f1468602383361ad68_square_s.jpeg?v=1716897606" group-title="Showroom",Showroom Lana / ラナ（JKT48）
 https://hls-css.live.showroom-live.com/live/5c7f7a9edc5360cd6b5c9849b55e14d29383367d41b48bf29c33c796c0ca9738_abr.m3u8
 #EXTINF:-1 tvg-id="Showroom" tvg-name="Showroom Levi / レヴィ（JKT48）" tvg-logo="https://static.showroom-live.com/image/room/cover/8063737c0d03194a4a8f48a6be704c0b5c262ce326d8cdac428c75f552855166_square_s.jpeg?v=1716896749" group-title="Showroom",Showroom Levi / レヴィ（JKT48）
